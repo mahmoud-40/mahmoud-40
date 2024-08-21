@@ -8,7 +8,7 @@
 
   <h3 align="center">About Me</h3>
   <p align="center">
-    Hi, I’m <strong>Mahmoud Abusalem</strong>, a dedicated student at Mansoura University specializing in Computer and Communication Engineering with a strong passion for Software Engineering and Competitive Programming. I am also an expert at Codeforces and a 1x ECPC Finalist.
+    Hi, I’m <strong>Mahmoud Abusalem</strong>, a dedicated student at Mansoura University specializing in Computer and Communication Engineering with a strong passion for Software Engineering and Competitive Programming.<br> I am also an expert at Codeforces and a 1x ECPC Finalist.
   </p>
 
   <h3 align="center">My Skills and Interests</h3>
