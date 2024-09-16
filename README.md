@@ -54,13 +54,13 @@
 
   <h3>GitHub Analytics</h3>
   <p align="center">
-      <a href="https://github.com/mahmoudabusalem">
+      <a href="https://github.com/mahmoud-40">
           <img src="https://github-readme-stats.vercel.app/api?username=mahmoudabusalem&stars=true&include_all_commits=true&hide_border=true&show_icons=true&theme=radical" alt="Mahmoud Abusalem's GitHub stats">
       </a>
   </p>
 
   <p align="center">
-      <a href="https://github.com/mahmoudabusalem">
+      <a href="https://github.com/mahmoud-40">
           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoudabusalem&hide_border=true&langs_count=8&layout=compact&theme=radical" alt="Top Languages">
       </a>
   </p>
