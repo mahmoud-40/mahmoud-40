@@ -8,7 +8,7 @@
 
   <h3 align="center">About Me</h3>
   <p align="center">
-    Hi, I’m <strong>Mahmoud Abusalem</strong>, a dedicated student at Mansoura University specializing in Computer and Communication Engineering with a strong passion for Software Engineering and Competitive Programming.<br> I am also an expert at Codeforces and a 1x ECPC Finalist.
+    Hi, I’m <strong>Mahmoud Abdulmawlaa</strong>, a dedicated student at Mansoura University specializing in Computer and Communication Engineering with a strong passion for Software Engineering and Competitive Programming.<br> I am also an expert at Codeforces and a 1x ECPC Finalist.
   </p>
 
   <h3 align="center">My Skills and Interests</h3>
@@ -22,7 +22,7 @@
       <a href="mailto:m.elbaadishy@gmail.com">
           <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=" alt="Gmail"/>
       </a>
-      <a href="https://www.linkedin.com/in/mahmoud-abusalem-65b454250/">
+      <a href="https://www.linkedin.com/in/mahmoud-abdulmawlaa-65b454250/">
           <img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn"/>
       </a>
   </p>
