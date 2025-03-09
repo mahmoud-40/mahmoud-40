@@ -1,15 +1,10 @@
  <h2 align="center">Hi There, It's Mahmoud! </h2>
 
-  <h3 align="center">About Me</h3>
-  <p align="center">
-    Hi, I’m <strong>Mahmoud Abdulmawlaa</strong>, a dedicated student at Mansoura University specializing in Computer Engineering with a strong passion for Software Engineering and Competitive Programming.<br> I am also an expert at Codeforces and a 1x ECPC Finalist.
-  </p>
-
-  <h3 align="center">My Skills and Interests</h3>
-  <p align="center">
-    Currently expanding my skills in Backend Development<br>
-    Eager to collaborate on exciting Open-Source projects
-  </p>
+👀 A junior SWE and a 3rd-year **Computer Engineering** student at **Mansoura University**.  
+🏗️ Passionate about **backend development**, **databases**, and building **highly scalable and performant applications**.  
+🌍 Interested in **open-source projects** and currently diving deeper into the **open-source world**.  
+💡 Experienced with **ASP.NET** and have built some great projects using it.  
+🏆 **Expert** at Codeforces and **1x ECPC Finalist** (Egypt Collegiate Programming Contest).
 
   <h3 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with Me</h3>
   <p align='center'>
