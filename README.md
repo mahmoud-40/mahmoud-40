@@ -3,7 +3,7 @@
 👀 A junior SWE and a 3rd-year **Computer Engineering** student at **Mansoura University**.  
 🏗️ Passionate about **backend development**, **databases**, and building **highly scalable and performant applications**.  
 🌍 Interested in **open-source projects** and currently diving deeper into the **open-source world**.  
-💡 Experienced with **ASP.NET** and have built some great projects using it.  
+💡 Experienced with **ASP.NET** and have built some good projects using it.  
 🏆 **Passionate about solving problems**, **Expert at Codeforces**, and **1x ECPC Finalist** (Egyptian Collegiate Programming Contest).  
 
   <h3 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with Me</h3>
