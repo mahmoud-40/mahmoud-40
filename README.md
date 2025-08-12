@@ -22,19 +22,6 @@
 
   <hr>
 
-  <h3>Languages and Tools</h3>
-  <p>
-      <a><img src="https://img.shields.io/static/v1?style=for-the-badge&message=C%2B%2B&color=044F88&logo=cplusplus&logoColor=FFFFFF&label=" alt="C++"/></a>
-      <a><img src="https://img.shields.io/static/v1?style=for-the-badge&message=C&color=00599C&logo=c&logoColor=FFFFFF&label=" alt="C"/></a>
-      <a><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=4b8bbe&logo=Python&logoColor=FFFFFF&label=" alt="Python"/></a>
-      <a><img src="https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=f0db4f&logo=javascript&logoColor=FFFFFF&label=" alt="JavaScript"/></a>
-      <a><img src="https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=html5&logoColor=FFFFFF&label=" alt="HTML5"/></a>
-      <a><img src="https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=1572B6&logo=css3&logoColor=FFFFFF&label=" alt="CSS3"/></a>
-      <a><img src="https://img.shields.io/static/v1?style=for-the-badge&message=.NET&color=512BD4&logo=.net&logoColor=FFFFFF&label=" alt=".NET"/></a>
-      <a><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Entity+Framework&color=5C2D91&logo=Entity-Framework&logoColor=FFFFFF&label=" alt="Entity Framework"/></a>
-      <a><img src="https://img.shields.io/static/v1?style=for-the-badge&message=MS+SQL+Server&color=CC2927&logo=Microsoft-SQL-Server&logoColor=FFFFFF&label=" alt="MS SQL Server"/></a>
-  </p>
-
   <h3>GitHub Analytics</h3>
   <p align="center">
       <a href="https://github.com/mahmoud-40">
