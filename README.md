@@ -23,17 +23,6 @@
 <hr>
 
 
-
-
-<!-- Centered GIF with Stats Below -->
-<table align="center" style="width: 100%; max-width: 800px; margin: auto; border-collapse: collapse;">
-  <!-- GitHub Streak -->
-  <tr>
-    <td colspan="2" style="text-align: center;">
-      <img src="https://streak-stats.demolab.com/?user=mahmoud-40&theme=chartreuse-dark" alt="GitHub Streak" style="width: 100%; max-width: 800px;" />
-    </td>
-  </tr>
-
   <!-- Top Languages + GitHub Stats -->
   <tr>
     <td style="text-align: center;">
