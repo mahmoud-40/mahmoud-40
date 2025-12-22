@@ -33,12 +33,7 @@
     </td>
   </tr>
 
-  <!-- Profile Details -->
-  <tr>
-    <td colspan="2" style="text-align: center;">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahmoud-40&theme=gruvbox" alt="Profile Details" style="width: 100%; max-width: 800px;" />
-    </td>
-  </tr>
+
 </table>
 
 ---
