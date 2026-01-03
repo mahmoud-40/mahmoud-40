@@ -20,20 +20,6 @@
     </a>
 </p>
 
-<hr>
-
-
-  <!-- Top Languages + GitHub Stats -->
-  <tr>
-    <td style="text-align: center;">
-      <img src="https://github-readme-stats.vercel.app/api?username=mahmoud-40&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&show=discussions_started,prs_merged,prs_merged_percentage" alt="GitHub Stats" style="width: 100%; max-width: 400px;" />
-    </td>
-    <td style="text-align: center;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmoud-40&layout=compact&langs_count=20&show_icons=true&locale=en&theme=chartreuse-dark" alt="Top Languages" style="width: 100%; max-width: 400px;" />
-    </td>
-  </tr>
-
-
 </table>
 
 ---
