@@ -20,7 +20,7 @@
 ```yaml
 $ whoami
 
-name: Mahmoud Abdelmawla
+name: Mahmoud Abdelmawla Abousalem
 role: Software Engineer
 currently: MSc @ Politecnico di Milano
 focus:
@@ -104,9 +104,9 @@ Contributing to projects in the Eclipse ecosystem.
 
 | Project | Contribution |
 |:--|:--|
-| **[Eclipse Tractus-X EDC](https://github.com/eclipse-tractusx/tractusx-edc/pull/3159)** | DID-to-BPN resolution using `MembershipCredential` · Open for review |
 | **[Eclipse SW360](https://github.com/eclipse-sw360/sw360/pull/4034)** | Fixed license attribution in CycloneDX SBOM exports · Merged |
 | **[Eclipse SW360](https://github.com/eclipse-sw360/sw360/pull/3956)** | Improved OSADL obligation parsing using `StringBuilder` · Merged |
+| **[Eclipse Tractus-X EDC](https://github.com/eclipse-tractusx/tractusx-edc/pull/3159)** | DID-to-BPN resolution using `MembershipCredential` · Open for review |
 
 ## `05` — Problem solving
 
@@ -123,8 +123,6 @@ Competitive programming is where I developed much of my algorithmic thinking.
 - Ranked 27th on ECPC 2024 Day 4.
 - Mentored 50+ students in competitive programming and software development.
 - Coached students in algorithms, data structures, and problem solving.
-
-[Codeforces profile](https://codeforces.com/profile/b3dsh)
 
 ## `06` — Tech stack
 
@@ -175,12 +173,10 @@ Competitive programming is where I developed much of my algorithmic thinking.
 
 ---
 
-<div align="center">
+<!-- <div align="center">
 
 **Always learning. Always building.**
 
 *Interested in backend engineering, full-stack development, distributed systems, and open source.*
 
-[LinkedIn](https://www.linkedin.com/in/mahmoud-abdulmawlaa/) · [Email](mailto:mahmouda.mawlaa@gmail.com) · [GitHub](https://github.com/mahmoud-40)
-
-</div>
+</div> -->
